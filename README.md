@@ -3,4 +3,4 @@ My Professional Resume
 
 Download my resume here:
 
-[Resume](./resume.pdf)
+[Resume](./Drashti_Nimavat_Resume1kb.pdf)
